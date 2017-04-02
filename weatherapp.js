@@ -29,7 +29,7 @@ function getWeather(zipcode){
     var humid=parsed_json['current_observation']['relative_humidity'] ;
     var icon=parsed_json['current_observation']['icon'];
    // icons set from https://www.wunderground.com/weather/api/d/docs?d=resources/icon-sets
-  	alert("Current temperature in " + location+ " is: " + temp_f);
+  	// alert("Current temperature in " + location+ " is: " + temp_f);
   
 
   // getcity and other stuff was with zipocode
