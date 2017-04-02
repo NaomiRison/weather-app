@@ -1,0 +1,50 @@
+
+body{
+	background-image: url("http://3.bp.blogspot.com/-H8eNyj5CHz8/Tj9Mb5x6F6I/AAAAAAAAAGw/cE3jwIgeGgM/s1600/Abstract%2Bart%2B-%2BCalm.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	
+}
+*{
+	padding: 1%;
+}
+img{
+	width: auto;
+	height: 100px;
+}
+#weather{
+	display: none;
+	text-align: center;
+	margin-top: 30px;
+	
+}
+#weather div{
+	margin-top: 10px;
+	font-weight: 300;
+  	text-transform: uppercase;
+  	word-spacing: 2px;
+  	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+	border: 3px solid #E87E04;
+	font-size: 16px;
+}
+#weather p{
+	margin-top: 10px;
+	font-weight: 300;
+  	text-transform: uppercase;
+  	word-spacing: 2px;
+  	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+	font-size: 16px;
+}
+
+	button{
+		background-color:purple;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+	}
+	
